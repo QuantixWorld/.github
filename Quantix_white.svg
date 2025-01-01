@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5000" height="5000" viewBox="0 0 5000 5000">
+    <rect width="5000" height="5000" fill="none" />
+
+    <g transform="rotate(90, 2500, 2500)">
+        <ellipse cx="2400" cy="2500" rx="2000" ry="750" fill="none" stroke="#00aeae" stroke-width="150" />
+        <ellipse cx="2600" cy="2500" rx="2000" ry="750" fill="none" stroke="black" stroke-width="150" />
+        <ellipse cx="2500" cy="2500" rx="2000" ry="750" fill="none" stroke="white" stroke-width="150" />
+    </g>
+
+    <g transform="rotate(0, 2500, 2500)">
+        <ellipse cx="2500" cy="2400" rx="2000" ry="750" fill="none" stroke="#00aeae" stroke-width="150" />
+        <ellipse cx="2500" cy="2600" rx="2000" ry="750" fill="none" stroke="black" stroke-width="150" />
+        <ellipse cx="2500" cy="2500" rx="2000" ry="750" fill="none" stroke="white" stroke-width="150" />
+    </g>
+
+    <g transform="rotate(135, 2500, 2500)">
+        <ellipse cx="2450" cy="2580" rx="2000" ry="750" fill="none" stroke="#00aeae" stroke-width="150" />
+        <ellipse cx="2550" cy="2420" rx="2000" ry="750" fill="none" stroke="black" stroke-width="150" />
+        <ellipse cx="2500" cy="2500" rx="2000" ry="750" fill="none" stroke="white" stroke-width="150" />
+    </g>
+
+    <g transform="rotate(45, 2500, 2500)">
+        <ellipse cx="2450" cy="2420" rx="2000" ry="750" fill="none" stroke="#00aeae" stroke-width="150" />
+        <ellipse cx="2550" cy="2580" rx="2000" ry="750" fill="none" stroke="black" stroke-width="150" />
+        <ellipse cx="2500" cy="2500" rx="2000" ry="750" fill="none" stroke="white" stroke-width="150" />
+    </g>
+</svg>
